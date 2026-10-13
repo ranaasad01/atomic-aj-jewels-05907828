@@ -1,0 +1,306 @@
+{
+  "nav": {
+    "shop": "Tienda",
+    "cart": "Carrito"
+  },
+  "footer": {
+    "linksHeading": "Páginas",
+    "contactHeading": "Ponte en Contacto",
+    "contactEmail": "hello@example.com",
+    "contactInstagram": "@ajjewels",
+    "madeWith": "Hecho con amor",
+    "copyright": "© AJ Jewels. Todos los derechos reservados.",
+    "handmadeNote": "Cada pulsera hecha a mano con"
+  },
+  "hero": {
+    "heading": "¡Bienvenido a AJ Jewels! 💛",
+    "body": "¡Hago pulseras a mano y pongo mucho amor en cada una! Puedes encontrar pulseras de cuentas, de amistad, brillantes y mucho más. ¡Espero que encuentres una que te encante!",
+    "cta": "Comprar Ahora",
+    "badge": "Hecho a mano con amor 💖",
+    "title": "Bienvenido a",
+    "titleAccent": "¡AJ Jewels!",
+    "subtitle": "Hago cada pulsera a mano, solo para ti. ¡Elige tu favorita y usa algo especial hoy!",
+    "cartLink": "Ver Mi Carrito"
+  },
+  "cta": {
+    "heading": "¿Listo para Encontrar Tu Favorita?",
+    "body": "Cada pulsera es única. ¡Consigue la tuya antes de que se agote!",
+    "button": "Ver Todas las Pulseras"
+  },
+  "cart": {
+    "header": {
+      "heading": "Mi Bolsa de Compras 🛍️",
+      "body": "¡Aquí están todas las pulseras que elegiste! Puedes cambiar la cantidad que deseas o quitar una. ¡Cuando estés listo, vamos a pagar!"
+    },
+    "items": {
+      "heading": "Tus Pulseras",
+      "body": "¡Cada pulsera está hecha por mí con mucho cuidado! Revisa tus selecciones abajo."
+    },
+    "summary": {
+      "heading": "Resumen del Pedido",
+      "body": "Aquí está el total de todo. Los precios se muestran antes de agregar el envío en el pago.",
+      "subtotal": "Subtotal",
+      "tax": "Impuesto estimado (10%)",
+      "total": "Total",
+      "checkoutCta": "Proceder al Pago",
+      "note": "Esta es una tienda de demostración — ¡no se realizará ningún pago real!",
+      "handmadeBadge": "Cada pulsera está hecha a mano con amor 💕"
+    },
+    "checkout": {
+      "heading": "¿Listo para recibir tus pulseras? 🎉",
+      "body": "¡Haz clic en el botón de abajo y nos encargaremos del resto! Haré tu pedido con amor extra y lo empaquetaré bonito para ti.",
+      "cta": "Ir al Pago"
+    },
+    "empty": {
+      "heading": "¡Tu bolsa está vacía! 🌸",
+      "body": "Parece que aún no has agregado ninguna pulsera. ¡Vuelve a la tienda y encuentra una que te encante — hay tantas para elegir!",
+      "cta": "Continuar Comprando",
+      "title": "¡Tu carrito está vacío!",
+      "message": "Parece que aún no has agregado ninguna pulsera. ¡Ve y elige tus favoritas!"
+    },
+    "heading": "Mi Carrito 🛒",
+    "itemCountSingular": "¡1 artículo listo!",
+    "itemCountPlural": "¡{count} artículos listos!",
+    "itemsLabel": "Artículos del carrito",
+    "summaryLabel": "Resumen del pedido",
+    "continueShopping": "Seguir comprando",
+    "item": {
+      "removeLabel": "Eliminar artículo",
+      "decreaseLabel": "Disminuir cantidad",
+      "increaseLabel": "Aumentar cantidad",
+      "each": "Cada uno"
+    },
+    "toast": {
+      "message": "¡Yay! ¡Gracias por tu pedido! 🎉 (Esta es solo una demostración — no se realizó ningún pedido real)"
+    }
+  },
+  "product": {
+    "addToCart": "Añadir a la Bolsa",
+    "outOfStock": "Agotado",
+    "materials": "Materiales",
+    "care": "Instrucciones de cuidado",
+    "related": "También te podría encantar",
+    "backToShop": "Volver a la tienda",
+    "inStock": "En stock",
+    "quantity": "Cantidad",
+    "newBadge": "¡Nuevo!",
+    "wishlistLabel": "Añadir a favoritos",
+    "thumbnailLabel": "Ver imagen",
+    "reviews": "¡Muchos clientes felices!",
+    "handmadeNote": "Hecho a mano con amor por AJ",
+    "materialsLabel": "Materiales",
+    "careLabel": "Cuidado",
+    "shippingLabel": "Envío",
+    "shippingValue": "¡Enviado en una bolsita linda en 3 días!",
+    "quantityLabel": "¿Cuántos te gustaría?",
+    "addedToCart": "¡Añadido! ¡Yay!",
+    "viewCart": "Ver mi bolsa",
+    "relatedTitle": "También te podría encantar...",
+    "notFound": "¡Oops! No pudimos encontrar esa pulsera.",
+    "promoBandTitle": "¡Cada pulsera se hace solo para ti!",
+    "promoBandSub": "Hecho a mano con cuidado, empacado con amor.",
+    "promoBandCta": "Ver todas las pulseras"
+  },
+  "shop": {
+    "heroBadge": "Hecho a mano con amor",
+    "heroTitle": "Bienvenido a",
+    "heroSub": "Cada pulsera se hace a mano, solo para ti. ¡Elige tu favorita y úsala todos los días!",
+    "heroCta": "Comprar Ahora",
+    "viewCart": "Ver carrito",
+    "gridHeading": "Todas las pulseras",
+    "newBadge": "¡Nuevo!",
+    "addToCart": "Añadir al carrito",
+    "addedToCart": "¡Añadido!",
+    "noProducts": "No hay pulseras aquí todavía — ¡vuelve pronto!",
+    "loveTitle": "Hecho solo para ti",
+    "loveBody": "Cada pulsera es hecha a mano por mí, AJ. Elijo las cuentas, ato cada nudo y empaco cada pedido con cuidado. ¡Espero que disfrutes usándola tanto como yo disfruté haciéndola!",
+    "loveCta": "Ver tu carrito",
+    "heading": "Mis pulseras",
+    "subheading": "Cada una es hecha por mí. ¡Elige tu favorita!",
+    "stats": [
+      {
+        "value": "6+",
+        "label": "Bracelet styles"
+      },
+      {
+        "value": "100%",
+        "label": "Handmade"
+      },
+      {
+        "value": "5★",
+        "label": "Happy customers"
+      }
+    ]
+  },
+  "productDetail": {
+    "breadcrumbShop": "Tienda",
+    "backToShop": "Volver a la tienda",
+    "badgeNew": "¡Nuevo!",
+    "wishlistAria": "Añadir a favoritos",
+    "reviewCount": "{count} clientes felices",
+    "eachLabel": "cada una",
+    "qtyDecrease": "Disminuir cantidad",
+    "qtyIncrease": "Aumentar cantidad",
+    "addToCart": "Añadir a la bolsa",
+    "addedLabel": "¡Añadido!",
+    "badge1": "Hecho a mano con amor",
+    "badge2": "Materiales seguros",
+    "badge3": "Envío rápido",
+    "aboutHeading": "Sobre esta pulsera",
+    "materialsHeading": "De qué está hecha",
+    "careHeading": "Cómo cuidarla",
+    "reviewsHeading": "Lo que dicen las personas",
+    "relatedHeading": "También te podría gustar",
+    "promiseHeading": "¡Cada pulsera es hecha solo para ti!",
+    "promiseBody": "Hago cada pulsera a mano. Eso significa que no hay dos exactamente iguales y cada una es hecha con mucho cuidado y amor. ¡Muchas gracias por comprar en AJ Jewels!"
+  },
+  "values": {
+    "heading": "Por qué te encantarán",
+    "subheading": "Esto es lo que hace que AJ Jewels sea extra especial.",
+    "items": [
+      {
+        "title": "Made with Love",
+        "desc": "I make every bracelet myself, one bead at a time. Each one gets lots of care!"
+      },
+      {
+        "title": "Super Sparkly",
+        "desc": "I pick the prettiest beads and charms so your bracelet really stands out."
+      },
+      {
+        "title": "Great Prices",
+        "desc": "All my bracelets are pocket-money friendly. Treat yourself or a friend!"
+      },
+      {
+        "title": "Packed with Care",
+        "desc": "Every order is wrapped up nicely so it arrives looking beautiful."
+      }
+    ]
+  },
+  "reviews": {
+    "heading": "Lo que dicen las personas",
+    "subheading": "¡Reseñas reales de clientes reales que aman sus pulseras!"
+  },
+  "about-maker": [
+    {
+      "text": "Every bracelet is handmade by me 🙌"
+    },
+    {
+      "text": "I use colourful beads, charms and stretchy cord"
+    },
+    {
+      "text": "No two bracelets are exactly the same"
+    },
+    {
+      "text": "I pack every order with extra care and a little thank-you note 💌"
+    }
+  ],
+  "filter-sort": [
+    {
+      "label": "All bracelets",
+      "value": "all"
+    },
+    {
+      "label": "Newest first",
+      "value": "newest"
+    },
+    {
+      "label": "Price: low to high",
+      "value": "price-asc"
+    },
+    {
+      "label": "Price: high to low",
+      "value": "price-desc"
+    }
+  ],
+  "product-grid": [
+    {
+      "id": "rainbow-beaded",
+      "name": "Rainbow Beaded Bracelet",
+      "description": "Bright rainbow beads on stretchy cord. So fun to wear every day!",
+      "price": 4.5
+    },
+    {
+      "id": "golden-star-charm",
+      "name": "Golden Star Charm Bracelet",
+      "description": "Shiny gold beads with a little star charm in the middle. Super pretty! ⭐",
+      "price": 5.0
+    },
+    {
+      "id": "pastel-friendship",
+      "name": "Pastel Friendship Bracelet",
+      "description": "Soft pink, lilac and mint threads woven together. Great to share with your bestie! 💜",
+      "price": 3.5
+    },
+    {
+      "id": "ocean-wave",
+      "name": "Ocean Wave Bracelet",
+      "description": "Blue and white beads that look just like the sea. 🌊",
+      "price": 4.0
+    },
+    {
+      "id": "strawberry-charm",
+      "name": "Strawberry Charm Bracelet",
+      "description": "Red and green beads with a tiny strawberry charm. So cute! 🍓",
+      "price": 5.5
+    },
+    {
+      "id": "silver-sparkle",
+      "name": "Silver Sparkle Bracelet",
+      "description": "Clear sparkly beads that catch the light. Feels like wearing glitter! ✨",
+      "price": 4.5
+    },
+    {
+      "id": "sunflower-bead",
+      "name": "Sunflower Bead Bracelet",
+      "description": "Yellow and brown beads shaped into a sunflower pattern. Bright and happy! 🌻",
+      "price": 4.0
+    },
+    {
+      "id": "heart-stack",
+      "name": "Heart Stack Bracelet",
+      "description": "Three thin bracelets with little heart beads. Wear them all together! 💕",
+      "price": 6.0
+    }
+  ],
+  "cart-items": [
+    {
+      "name": "Rainbow Beaded Bracelet",
+      "price": "£4.50",
+      "desc": "Stretchy and super colourful, great for everyday wear"
+    },
+    {
+      "name": "Golden Star Charm Bracelet",
+      "price": "£6.00",
+      "desc": "Shiny gold-tone chain with a little star charm"
+    },
+    {
+      "name": "Pink Pearl Friendship Bracelet",
+      "price": "£3.50",
+      "desc": "Soft pink beads with a tiny heart in the middle"
+    },
+    {
+      "name": "Ocean Wave Bracelet",
+      "price": "£5.00",
+      "desc": "Blue and white beads that look just like the sea"
+    },
+    {
+      "name": "Daisy Chain Bracelet",
+      "price": "£4.00",
+      "desc": "Pretty white and yellow daisy beads all the way round"
+    }
+  ],
+  "cart-summary": [
+    {
+      "label": "Subtotal",
+      "detail": "Added up from all your bracelets"
+    },
+    {
+      "label": "Postage",
+      "detail": "Worked out at checkout"
+    },
+    {
+      "label": "Total",
+      "detail": "The final amount you'll pay"
+    }
+  ]
+}

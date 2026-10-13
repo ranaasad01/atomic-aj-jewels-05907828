@@ -1,0 +1,306 @@
+{
+  "nav": {
+    "shop": "Shop",
+    "cart": "Cart"
+  },
+  "footer": {
+    "linksHeading": "Pages",
+    "contactHeading": "Say Hello",
+    "contactEmail": "hello@example.com",
+    "contactInstagram": "@ajjewels",
+    "madeWith": "Made with love",
+    "copyright": "© AJ Jewels. All rights reserved.",
+    "handmadeNote": "Every bracelet handmade with"
+  },
+  "hero": {
+    "heading": "Welcome to AJ Jewels! 💛",
+    "body": "I make bracelets by hand and I put lots of love into every single one! You can find beaded ones, friendship ones, sparkly ones and so much more. I hope you find one you love!",
+    "cta": "Shop Now",
+    "badge": "Handmade with love 💖",
+    "title": "Welcome to",
+    "titleAccent": "AJ Jewels!",
+    "subtitle": "I make every bracelet by hand, just for you. Pick your favourite and wear something special today!",
+    "cartLink": "View My Cart"
+  },
+  "about-maker": [
+    {
+      "text": "Every bracelet is handmade by me 🙌"
+    },
+    {
+      "text": "I use colourful beads, charms and stretchy cord"
+    },
+    {
+      "text": "No two bracelets are exactly the same"
+    },
+    {
+      "text": "I pack every order with extra care and a little thank-you note 💌"
+    }
+  ],
+  "filter-sort": [
+    {
+      "label": "All bracelets",
+      "value": "all"
+    },
+    {
+      "label": "Newest first",
+      "value": "newest"
+    },
+    {
+      "label": "Price: low to high",
+      "value": "price-asc"
+    },
+    {
+      "label": "Price: high to low",
+      "value": "price-desc"
+    }
+  ],
+  "product-grid": [
+    {
+      "id": "rainbow-beaded",
+      "name": "Rainbow Beaded Bracelet",
+      "description": "Bright rainbow beads on stretchy cord. So fun to wear every day!",
+      "price": 4.5
+    },
+    {
+      "id": "golden-star-charm",
+      "name": "Golden Star Charm Bracelet",
+      "description": "Shiny gold beads with a little star charm in the middle. Super pretty! ⭐",
+      "price": 5.0
+    },
+    {
+      "id": "pastel-friendship",
+      "name": "Pastel Friendship Bracelet",
+      "description": "Soft pink, lilac and mint threads woven together. Great to share with your bestie! 💜",
+      "price": 3.5
+    },
+    {
+      "id": "ocean-wave",
+      "name": "Ocean Wave Bracelet",
+      "description": "Blue and white beads that look just like the sea. 🌊",
+      "price": 4.0
+    },
+    {
+      "id": "strawberry-charm",
+      "name": "Strawberry Charm Bracelet",
+      "description": "Red and green beads with a tiny strawberry charm. So cute! 🍓",
+      "price": 5.5
+    },
+    {
+      "id": "silver-sparkle",
+      "name": "Silver Sparkle Bracelet",
+      "description": "Clear sparkly beads that catch the light. Feels like wearing glitter! ✨",
+      "price": 4.5
+    },
+    {
+      "id": "sunflower-bead",
+      "name": "Sunflower Bead Bracelet",
+      "description": "Yellow and brown beads shaped into a sunflower pattern. Bright and happy! 🌻",
+      "price": 4.0
+    },
+    {
+      "id": "heart-stack",
+      "name": "Heart Stack Bracelet",
+      "description": "Three thin bracelets with little heart beads. Wear them all together! 💕",
+      "price": 6.0
+    }
+  ],
+  "cta": {
+    "heading": "Ready to Find Your Favourite?",
+    "body": "Every bracelet is one of a kind. Grab yours before it is gone!",
+    "button": "Browse All Bracelets"
+  },
+  "cart": {
+    "header": {
+      "heading": "My Shopping Bag 🛍️",
+      "body": "Here are all the bracelets you picked! You can change how many you want or take one out. When you're ready, let's check out!"
+    },
+    "items": {
+      "heading": "Your Bracelets",
+      "body": "Each bracelet is made by me with lots of care! Check your picks below."
+    },
+    "summary": {
+      "heading": "Order Summary",
+      "body": "Here's what everything adds up to. Prices are shown before any postage is added at checkout.",
+      "subtotal": "Subtotal",
+      "tax": "Estimated tax (10%)",
+      "total": "Total",
+      "checkoutCta": "Proceed to Checkout",
+      "note": "This is a demo shop — no real payment will be taken!",
+      "handmadeBadge": "Every bracelet is handmade with love 💕"
+    },
+    "checkout": {
+      "heading": "Ready to get your bracelets? 🎉",
+      "body": "Click the button below and we'll sort out the rest! I'll make your order with extra love and wrap it up nicely for you.",
+      "cta": "Go to Checkout"
+    },
+    "empty": {
+      "heading": "Your bag is empty! 🌸",
+      "body": "Looks like you haven't added any bracelets yet. Go back to the shop and find one you love — there are so many to pick from!",
+      "cta": "Continue Shopping",
+      "title": "Your cart is empty!",
+      "message": "Looks like you haven't added any bracelets yet. Go pick your favourites!"
+    },
+    "heading": "My Cart 🛒",
+    "itemCountSingular": "1 item ready to go!",
+    "itemCountPlural": "{count} items ready to go!",
+    "itemsLabel": "Cart items",
+    "summaryLabel": "Order summary",
+    "continueShopping": "Continue shopping",
+    "item": {
+      "removeLabel": "Remove item",
+      "decreaseLabel": "Decrease quantity",
+      "increaseLabel": "Increase quantity",
+      "each": "Each"
+    },
+    "toast": {
+      "message": "Yay! Thanks for your order! 🎉 (This is just a demo — no real order was placed)"
+    }
+  },
+  "cart-items": [
+    {
+      "name": "Rainbow Beaded Bracelet",
+      "price": "£4.50",
+      "desc": "Stretchy and super colourful, great for everyday wear"
+    },
+    {
+      "name": "Golden Star Charm Bracelet",
+      "price": "£6.00",
+      "desc": "Shiny gold-tone chain with a little star charm"
+    },
+    {
+      "name": "Pink Pearl Friendship Bracelet",
+      "price": "£3.50",
+      "desc": "Soft pink beads with a tiny heart in the middle"
+    },
+    {
+      "name": "Ocean Wave Bracelet",
+      "price": "£5.00",
+      "desc": "Blue and white beads that look just like the sea"
+    },
+    {
+      "name": "Daisy Chain Bracelet",
+      "price": "£4.00",
+      "desc": "Pretty white and yellow daisy beads all the way round"
+    }
+  ],
+  "cart-summary": [
+    {
+      "label": "Subtotal",
+      "detail": "Added up from all your bracelets"
+    },
+    {
+      "label": "Postage",
+      "detail": "Worked out at checkout"
+    },
+    {
+      "label": "Total",
+      "detail": "The final amount you'll pay"
+    }
+  ],
+  "product": {
+    "addToCart": "Add to Bag",
+    "outOfStock": "Out of stock",
+    "materials": "Materials",
+    "care": "Care instructions",
+    "related": "You might also love",
+    "backToShop": "Back to shop",
+    "inStock": "In stock",
+    "quantity": "Quantity",
+    "newBadge": "New!",
+    "wishlistLabel": "Add to wishlist",
+    "thumbnailLabel": "View image",
+    "reviews": "Lots of happy customers!",
+    "handmadeNote": "Handmade with love by AJ",
+    "materialsLabel": "Materials",
+    "careLabel": "Care",
+    "shippingLabel": "Shipping",
+    "shippingValue": "Sent in a cute little pouch within 3 days!",
+    "quantityLabel": "How many would you like?",
+    "addedToCart": "Added! Yay!",
+    "viewCart": "View my bag",
+    "relatedTitle": "You might also love...",
+    "notFound": "Oops! We could not find that bracelet.",
+    "promoBandTitle": "Every bracelet is made just for you!",
+    "promoBandSub": "Handcrafted with care, packed with love.",
+    "promoBandCta": "See all bracelets"
+  },
+  "shop": {
+    "heroBadge": "Handmade with love",
+    "heroTitle": "Welcome to",
+    "heroSub": "Every bracelet is made by hand, just for you. Pick your favourite and wear it every day!",
+    "heroCta": "Shop Now",
+    "viewCart": "View Cart",
+    "gridHeading": "All Bracelets",
+    "newBadge": "New!",
+    "addToCart": "Add to Cart",
+    "addedToCart": "Added!",
+    "noProducts": "No bracelets here yet — check back soon!",
+    "loveTitle": "Made just for you",
+    "loveBody": "Every single bracelet is handmade by me, AJ. I pick the beads, tie every knot and pack each order with care. I hope you love wearing it as much as I loved making it!",
+    "loveCta": "See your cart",
+    "stats": [
+      {
+        "value": "6+",
+        "label": "Bracelet styles"
+      },
+      {
+        "value": "100%",
+        "label": "Handmade"
+      },
+      {
+        "value": "5★",
+        "label": "Happy customers"
+      }
+    ],
+    "heading": "My Bracelets",
+    "subheading": "Every single one is made by me. Pick your favourite!"
+  },
+  "productDetail": {
+    "breadcrumbShop": "Shop",
+    "backToShop": "Back to shop",
+    "badgeNew": "New!",
+    "wishlistAria": "Add to wishlist",
+    "reviewCount": "{count} happy customers",
+    "eachLabel": "each",
+    "qtyDecrease": "Decrease quantity",
+    "qtyIncrease": "Increase quantity",
+    "addToCart": "Add to bag",
+    "addedLabel": "Added!",
+    "badge1": "Handmade with love",
+    "badge2": "Safe materials",
+    "badge3": "Fast postage",
+    "aboutHeading": "About this bracelet",
+    "materialsHeading": "What it is made of",
+    "careHeading": "How to look after it",
+    "reviewsHeading": "What people say",
+    "relatedHeading": "You might also like",
+    "promiseHeading": "Every bracelet is made just for you!",
+    "promiseBody": "I make every single bracelet by hand. That means no two are exactly the same and each one is made with lots of care and love. Thank you so much for shopping at AJ Jewels!"
+  },
+  "values": {
+    "heading": "Why You Will Love Them",
+    "subheading": "Here is what makes AJ Jewels extra special.",
+    "items": [
+      {
+        "title": "Made with Love",
+        "desc": "I make every bracelet myself, one bead at a time. Each one gets lots of care!"
+      },
+      {
+        "title": "Super Sparkly",
+        "desc": "I pick the prettiest beads and charms so your bracelet really stands out."
+      },
+      {
+        "title": "Great Prices",
+        "desc": "All my bracelets are pocket-money friendly. Treat yourself or a friend!"
+      },
+      {
+        "title": "Packed with Care",
+        "desc": "Every order is wrapped up nicely so it arrives looking beautiful."
+      }
+    ]
+  },
+  "reviews": {
+    "heading": "What People Say",
+    "subheading": "Real reviews from real customers who love their bracelets!"
+  }
+}
